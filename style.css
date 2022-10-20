@@ -1,0 +1,18 @@
+body {
+        height: 100vh;
+}
+
+#container {
+        display: grid;
+        grid-template-columns: 1fr 1fr;
+        grid-row: 1fr;
+        height: 100%;
+}
+
+#casa {
+        background: red;
+}
+
+#palestra {
+        background-color: aqua;
+}
